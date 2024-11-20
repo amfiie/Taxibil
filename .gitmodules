@@ -1,0 +1,9 @@
+[submodule "Sensormodul/subprojects/sockpp"]
+	path = Kommunikationsmodul/subprojects/sockpp
+	url = https://github.com/fpagliughi/sockpp.git
+[submodule "UI-modul/src/gst1-java-swing"]
+	path = UI-modul/src/gst1-java-swing
+	url = https://github.com/gstreamer-java/gst1-java-swing.git
+[submodule "Kommunikationsmodul/opencv_workdir/lane_detection_advanced/subprojects/matplotplusplus"]
+	path = Kommunikationsmodul/opencv_workdir/lane_detection_advanced/subprojects/matplotplusplus
+	url = https://github.com/alandefreitas/matplotplusplus/

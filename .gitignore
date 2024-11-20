@@ -1,0 +1,12 @@
+Sensormodul/Debug 
+Styrmodul/Debug 
+Kommunikationsmodul/main 
+**/build*
+a.out
+*.class
+*.vs
+**/.vscode/*
+.xml
+.idea
+.DS_Store
+target/
